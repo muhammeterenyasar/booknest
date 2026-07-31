@@ -1,0 +1,6 @@
+{
+  "name": "BookNest",
+  "description": "Offline-first E-Reader & Personal Library Management app with EPUB and PDF reader capabilities, Google Books metadata enrichment, and React Native / Expo export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
